@@ -1,0 +1,138 @@
+body{ color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'merriweather',serif;
+}
+
+h1{ font-size: 5rem;
+    margin-top: 50px auto 0px auto;
+    font-family: 'sacramento', cursive;
+    color: #66BFBF;
+    
+
+}
+
+h2{ font-size: 2.5rem;
+    
+    color: #66BFBF;
+    font-weight: 300;
+}
+
+h3{
+    color:#11999E;
+}
+
+.top-container{
+    background-color:#BFFFF0 ;
+    position: relative;
+    padding: 250px;
+    padding-bottom: 0%;
+    
+}
+
+.bottom-container{
+    margin-top: 50px;
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+a{
+    margin: 10px 20px;
+    color: #11999E;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #BFFFF0;
+}
+.programmer{
+    background-color: orange;
+    height: 200px;
+    width: 200px;
+}
+
+span{
+    
+    text-decoration: underline;
+    
+}
+
+.bottom-cloud{
+    position: absolute;
+    top: 200px;
+}
+.top-cloud{
+    position: absolute;
+    right:400px;
+    top: 100px;
+}
+.mountain{
+    height: 500px;;
+    width: 800px;
+}
+.image{
+    height: 400px;
+    width: 400px
+    ;
+}
+.footer-link{
+    
+    color: #11999E;
+    font-size: large;
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 10% auto 10% auto;
+    text-align: left;
+    line-height: 2;
+
+}
+.PROGRAMMING{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.cooking{
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+
+
+.last-para{
+    color:#EAF6F6;
+}
+.para{
+    color: #40514E;
+    text-align: center;
+    
+}
+hr {
+    border: 10px dotted #EAF6F6;
+    border-style: none none dotted; 
+    height:1px;
+    width: 100px;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #13e3cb;
+    background-image: -webkit-linear-gradient(top, #13e3cb);
+    
+  }
